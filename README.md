@@ -1,12 +1,12 @@
-# ISfromQA
-This is the code repository for the ArXiv paper [Incidental Supervision from Question-Answering Signals](https://arxiv.org/pdf/1909.00333.pdf).
+# QuASE
+This is the code repository for the ACL paper [QuASE: Question-Answer Driven Sentence Encoding](https://arxiv.org/pdf/1909.00333.pdf).
 If you use this code for your work, please cite
 ```
-@article{he2019incidental,
-  title={Incidental Supervision from Question-Answering Signals},
-  author={He, Hangfeng and Ning, Qiang and Roth, Dan},
-  journal={arXiv preprint arXiv:1909.00333},
-  year={2019}
+@inproceedings{HeNgRo20,
+    author = {Hangfeng He and Qiang Ning and Dan Roth},
+    title = {{QuASE: Question-Answer Driven Sentence Encoding}},
+    booktitle = {Proc. of the Annual Meeting of the Association for Computational Linguistics (ACL)},
+    year = {2020},
 }
 
 ```
