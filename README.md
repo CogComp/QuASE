@@ -1,5 +1,5 @@
 # QuASE
-This is the code repository for the ACL paper [QuASE: Question-Answer Driven Sentence Encoding](https://arxiv.org/pdf/1909.00333.pdf).
+This is the code repository for the ACL paper [QuASE: Question-Answer Driven Sentence Encoding](https://hornhehhf.github.io/hangfenghe/papers/ACL_QuASE_final.pdf).
 If you use this code for your work, please cite
 ```
 @inproceedings{HeNgRo20,
@@ -10,7 +10,7 @@ If you use this code for your work, please cite
 }
 
 ```
-## Play with our [online demo](http://dickens.seas.upenn.edu:4006).
+## Play with our [online demo](https://cogcomp.seas.upenn.edu/page/demo_view/QuASE).
 
 ## Installing Dependencies
 Use virtual environment tools (e.g miniconda) to install packages and run experiments\
