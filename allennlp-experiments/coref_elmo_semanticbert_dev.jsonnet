@@ -1,4 +1,4 @@
-// Elmo embeddings + Standard QALM embeddings for Coref on the small data setting
+// Elmo embeddings + s-QuASE embeddings for Coref on the small data setting
 {
   "dataset_reader": {
     "type": "coref",

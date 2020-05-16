@@ -1,4 +1,4 @@
-// Elmo embeddings + Standard QALM embeddings for SRL
+// Elmo embeddings + s-QuASE embeddings for SRL
 {
     "dataset_reader": {
         "type": "srl",

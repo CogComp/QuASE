@@ -1,4 +1,4 @@
-// BERT embeddings + Standard QALM embeddings for NER
+// BERT embeddings + s-QuASE embeddings for NER
 {
   "dataset_reader": {
     "type": "conll2003",

@@ -1,4 +1,4 @@
-// BERT embeddings + Standard QALM embedding for SRL on the small data setting
+// BERT embeddings + s-QuASE embedding for SRL on the small data setting
 {
     "dataset_reader": {
         "type": "srl",

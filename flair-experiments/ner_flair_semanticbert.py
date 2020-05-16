@@ -6,7 +6,7 @@ from flair.models import SequenceTagger
 from flair.trainers import ModelTrainer
 from SemanticBertEmbeddings import SemanticBertEmbeddings
 
-# Flair embeddings + Standard QALM embeddings for NER
+# Flair embeddings + s-QuASE embeddings for NER
 
 # 1. get the corpus
 columns = {0: "text", 1: "pos", 2: "np", 3: "ner"}

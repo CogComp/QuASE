@@ -1,4 +1,4 @@
-// BERT embeddings + Standard QALM embeddings for Coref
+// BERT embeddings + s-QuASE embeddings for Coref
 {
   "dataset_reader": {
     "type": "coref",
