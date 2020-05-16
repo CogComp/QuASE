@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# BERT + Conditional QALM on TE
+# BERT + p-QuASE on TE
 export GLUE_DIR=/path/to/data/GLUE
 for TASK_NAME in "MNLI"
 do

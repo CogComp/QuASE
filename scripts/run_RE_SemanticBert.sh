@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-# BERT embeddings + Standard QALM for RE
-for percent in 10
+# BERT embeddings + s-QuASE for RE
+for percent in 10 100
 do
     for seed in 666
     do

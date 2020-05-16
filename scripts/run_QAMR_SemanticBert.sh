@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Train the standard QALM model with QAMR data
+# Train the s-QuASE model with QAMR data
 for epoch in 64
 do
     for lr in 1e-4

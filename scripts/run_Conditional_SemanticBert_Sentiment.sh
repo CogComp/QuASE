@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# BERT + Conditional QALM on Sentiment
+# BERT + p-QuASE on Sentiment
 export GLUE_DIR=/path/to/data/GLUE
 for TASK_NAME in "SST-2"
 do

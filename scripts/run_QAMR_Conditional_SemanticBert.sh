@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Train the conditional QALM model with QAMR dataset
+# Train the p-QuASE model with QAMR dataset
 for train_batch_size in 32
 do
     for lr in 5e-5

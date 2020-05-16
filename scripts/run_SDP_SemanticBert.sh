@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# BERT embeddings + Standard QALM for SDP
+# BERT embeddings + s-QuASE for SDP
 for percent in 10 100
 do
     echo "run setting percent:$percent%"

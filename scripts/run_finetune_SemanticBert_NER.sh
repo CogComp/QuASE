@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# BERT + Conditional QALM on uncased NER
+# BERT + p-QuASE on uncased NER
 
 for percent in 10 100
 do

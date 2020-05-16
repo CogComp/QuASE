@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# AMR probing on the standard QALM embeddings
+# AMR probing on the s-QuASE embeddings
 for percent in 100
 do
     echo "run setting percent:$percent%"

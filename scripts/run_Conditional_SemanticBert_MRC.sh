@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# BERT + Conditional QALM on MRC
+# BERT + p-QuASE on MRC
 for train_batch_size in 16
 do
     for lr in 5e-5
