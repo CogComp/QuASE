@@ -74,8 +74,8 @@ def sample_data(input_file, output_file, sample_rate):
 
 
 if __name__ == '__main__':
-    org_file = 'orig/dev.jsonl'
-    new_file = 'qasrl.dev.json'
+    org_file = 'orig/train.jsonl'
+    new_file = 'qasrl.train.json'
     change_Large_QA_SRL_SQuAD(org_file, new_file)
     # input_file = 'qasrl.train.json'
     # output_file = 'qasrl.train.sample.51K.json'
