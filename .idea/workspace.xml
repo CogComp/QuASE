@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5cc413f3-09d0-4578-8dcb-b6a01b538a4f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert_dev.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert_dev.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/coref_semanticbert.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/coref_semanticbert.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/coref_semanticbert_dev.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/coref_semanticbert_dev.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/ner_semanticbert.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/ner_semanticbert.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/ner_semanticbert_dev.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/ner_semanticbert_dev.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/srl_elmo_semanticbert.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/srl_elmo_semanticbert.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/srl_elmo_semanticbert_dev.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/srl_elmo_semanticbert_dev.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/srl_semanticbert.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/srl_semanticbert.jsonnet" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allennlp-experiments/srl_semanticbert_dev.jsonnet" afterPath="$PROJECT_DIR$/allennlp-experiments/srl_semanticbert_dev.jsonnet" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="srl_semanticbert_dev.jsonnet" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/allennlp-experiments/srl_semanticbert_dev.jsonnet">
+      <file leaf-file-name="coref_elmo_semanticbert.jsonnet" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert.jsonnet">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="-532">
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -67,6 +57,8 @@
         <option value="$PROJECT_DIR$/allennlp-experiments/srl_elmo_semanticbert_dev.jsonnet" />
         <option value="$PROJECT_DIR$/allennlp-experiments/srl_semanticbert.jsonnet" />
         <option value="$PROJECT_DIR$/allennlp-experiments/srl_semanticbert_dev.jsonnet" />
+        <option value="$PROJECT_DIR$/flair-experiments/ner_flair_semanticbert.py" />
+        <option value="$PROJECT_DIR$/flair-experiments/ner_flair_semanticbert_dev.py" />
       </list>
     </option>
   </component>
@@ -119,6 +111,11 @@
             <path>
               <item name="QuASE" type="b2602c69:ProjectViewProjectNode" />
               <item name="QuASE" type="462c0819:PsiDirectoryNode" />
+              <item name="flair-experiments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuASE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QuASE" type="462c0819:PsiDirectoryNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,8 +162,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="375" y="24" width="1305" height="970" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980843" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980843" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -502,14 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert.jsonnet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert_dev.jsonnet">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -530,22 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allennlp-experiments/ner_semanticbert.jsonnet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allennlp-experiments/ner_semanticbert_dev.jsonnet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -600,10 +574,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flair-experiments/ner_flair_semanticbert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flair-experiments/ner_flair_semanticbert_dev.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flair-experiments/SemanticBertEmbeddings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allennlp-experiments/ner_semanticbert_dev.jsonnet">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allennlp-experiments/ner_semanticbert.jsonnet">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/allennlp-experiments/srl_semanticbert_dev.jsonnet">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="59">
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allennlp-experiments/coref_elmo_semanticbert.jsonnet">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-532">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>

@@ -45,10 +45,10 @@ python ner_flair.py
 python ner_flair_semanticbert.py
 ```
 
-To train a conditional/standard SemanticBERT with your own QA data (SQuAD format):
+To train a s-QuASE/p-QuASE with your own QA data (SQuAD format):
 ```
-sh scripts/run_BERT_squad_51K.sh
 sh scripts/run_SemanticBERT_SQuAD.sh
+sh scripts/run_BERT_squad_51K.sh
 ```
 
 SRL Evaluation:\
