@@ -16,8 +16,8 @@ If you use this code for your work, please cite
 Use virtual environment tools (e.g miniconda) to install packages and run experiments\
 python>=3.6\
 install pytorch\
-pip install pytorch-pretrained-bert\
-pip install allennlp
+pip install pytorch-pretrained-bert==0.6.2\
+pip install allennlp==0.9.0
 
 ## The models
 Our pre-trained models can be found in the [google drive](https://drive.google.com/drive/folders/1j6ufXtxFekPM9CfM5CxKfmwHsqLR8kNY?usp=sharing).
