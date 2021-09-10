@@ -1,5 +1,5 @@
 # QuASE
-This is the code repository for the ACL paper [QuASE: Question-Answer Driven Sentence Encoding](https://hornhehhf.github.io/hangfenghe/papers/ACL_QuASE_final.pdf).
+This is the code repository for the ACL paper [QuASE: Question-Answer Driven Sentence Encoding](https://cogcomp.seas.upenn.edu/page/publication_view/905).
 If you use this code for your work, please cite
 ```
 @inproceedings{HeNgRo20,
